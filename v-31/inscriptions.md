@@ -16,3 +16,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/github/blo
 * Fuentes - Loïc - fuentes.loic@gmail.com - @fuentes_loic
 * Rosenberg - Nathalie - @nrosenberg
 * Ricaud - Lilian - @lilious
+* Lajous - Béatrice - b.lajous@gmail.com - @KinoSan
